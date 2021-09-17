@@ -1,0 +1,17 @@
+{
+  "name": "metamask-extension",
+  "version": "1.0.0",
+  "description": "Metamask extension",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clearpool-finance/metamask-extension.git"
+  },
+  "keywords": [],
+  "author": "Clearpool",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clearpool-finance/metamask-extension/issues"
+  },
+  "homepage": "https://github.com/clearpool-finance/metamask-extension#readme"
+}
